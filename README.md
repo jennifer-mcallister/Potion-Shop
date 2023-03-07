@@ -33,9 +33,8 @@ Vi kommer att använda den agila arbetsmetoden "Scrum" för att hålla ett flexi
 
 ### Vårt utvecklingsteam
 - [Marcus Reineck](https://github.com/MarcusRei)
-- 
-- Jennifer McAllister
-- Carolina Warntorp
+- [Jennifer McAllister](https://github.com/jennifer-mcallister)
+- [Carolina Warntorp](https://github.com/Carowa27)
 
 ### Våra produktägare
 - Linda Mossberg
