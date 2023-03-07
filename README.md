@@ -32,7 +32,8 @@ Vi kommer att använda den agila arbetsmetoden "Scrum" för att hålla ett flexi
 - scss
 
 ### Vårt utvecklingsteam
-- Marcus Reineck
+- [Marcus Reineck](https://github.com/MarcusRei)
+- 
 - Jennifer McAllister
 - Carolina Warntorp
 
@@ -41,6 +42,3 @@ Vi kommer att använda den agila arbetsmetoden "Scrum" för att hålla ett flexi
 - Sebastian Tegel
 
 
-#� �P�o�t�i�o�n�-�S�h�o�p�
-�
-�
