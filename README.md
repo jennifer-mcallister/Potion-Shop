@@ -2,6 +2,8 @@
 
 #Det här är en gruppupgift i kursen Agilt projektarbete för grupp 8 på medieinstitutet i Stockholm.
 
+![app](/src/assets/images/app.png "Display app")
+
 ## Vår målsättning
 Vår uppgift är att skapa en webbshop för produkter som vi själva får bestämma.
 
@@ -40,4 +42,4 @@ Vi kommer att använda den agila arbetsmetoden "Scrum" för att hålla ett flexi
 - Linda Mossberg
 - Sebastian Tegel
 
-![app](/src/assets/images/app.png "Display app")
+
