@@ -40,5 +40,4 @@ Vi kommer att använda den agila arbetsmetoden "Scrum" för att hålla ett flexi
 - Linda Mossberg
 - Sebastian Tegel
 
-
-x
+![app](/src/assets/app.png "Display app")
